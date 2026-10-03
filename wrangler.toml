@@ -1,0 +1,3 @@
+..name = "cfnext"
+main = "CFNext 明文版.js"
+compatibility_date = "2026-10-01"
